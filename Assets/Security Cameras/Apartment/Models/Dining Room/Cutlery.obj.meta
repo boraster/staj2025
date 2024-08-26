@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: ae7dbd3d3ea7e0c418e25d2b31428eef
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: //RootNode
+  - first:
+      1: 100002
+    second: Knife_Knife
+  - first:
+      1: 100004
+    second: Plastic_Spoon_Plastic_Spoon
+  - first:
+      1: 100006
+    second: Plastic_Spork_Plastic_Spork
+  - first:
+      1: 100008
+    second: Table_Fork_Table_Fork
+  - first:
+      1: 100010
+    second: Table_Sppon_Table_Sppon
+  - first:
+      4: 400000
+    second: //RootNode
+  - first:
+      4: 400002
+    second: Knife_Knife
+  - first:
+      4: 400004
+    second: Plastic_Spoon_Plastic_Spoon
+  - first:
+      4: 400006
+    second: Plastic_Spork_Plastic_Spork
+  - first:
+      4: 400008
+    second: Table_Fork_Table_Fork
+  - first:
+      4: 400010
+    second: Table_Sppon_Table_Sppon
+  - first:
+      21: 2100000
+    second: Knife_KnifeMat
+  - first:
+      21: 2100002
+    second: Plastic_Spoon_Plastic_SpoonMat
+  - first:
+      21: 2100004
+    second: Plastic_Spork_Plastic_SporkMat
+  - first:
+      21: 2100006
+    second: Table_Fork_Table_ForkMat
+  - first:
+      21: 2100008
+    second: Table_Sppon_Table_SpponMat
+  - first:
+      23: 2300000
+    second: Knife_Knife
+  - first:
+      23: 2300002
+    second: Plastic_Spoon_Plastic_Spoon
+  - first:
+      23: 2300004
+    second: Plastic_Spork_Plastic_Spork
+  - first:
+      23: 2300006
+    second: Table_Fork_Table_Fork
+  - first:
+      23: 2300008
+    second: Table_Sppon_Table_Sppon
+  - first:
+      33: 3300000
+    second: Knife_Knife
+  - first:
+      33: 3300002
+    second: Plastic_Spoon_Plastic_Spoon
+  - first:
+      33: 3300004
+    second: Plastic_Spork_Plastic_Spork
+  - first:
+      33: 3300006
+    second: Table_Fork_Table_Fork
+  - first:
+      33: 3300008
+    second: Table_Sppon_Table_Sppon
+  - first:
+      43: 4300000
+    second: Knife_Knife
+  - first:
+      43: 4300002
+    second: Plastic_Spoon_Plastic_Spoon
+  - first:
+      43: 4300004
+    second: Plastic_Spork_Plastic_Spork
+  - first:
+      43: 4300006
+    second: Table_Fork_Table_Fork
+  - first:
+      43: 4300008
+    second: Table_Sppon_Table_Sppon
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cutlery
+    second: {fileID: 2100000, guid: ca036a9211fcb89459f19455d5c956dd, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties:
+    - '#BAKERY{"meshName":["Knife_Knife","Table_Fork_Table_Fork","Table_Sppon_Table_Sppon"],"padding":[256,256,256],"unwrapper":[0,0,0]}'
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    nodeNameCollisionStrategy: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.01
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 0
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
